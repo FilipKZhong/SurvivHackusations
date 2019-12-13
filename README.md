@@ -1,2 +1,5 @@
 # SurvivHackusations
-Survivio+
+- Loot Finder
+- Aim Assistant
+- Transparent Roof
+- HP Counter
