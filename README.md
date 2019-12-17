@@ -4,6 +4,8 @@
 - Transparent Roof
 - HP Counter
 
+- 0.8.8.1 patched
+
 ## Owner?
 After a while of bugs and glitches on GitHub ownership is finally transfered,
 for some reason all commits I did was made in Filip K Zhong's name,
