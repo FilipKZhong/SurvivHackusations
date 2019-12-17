@@ -1,4 +1,4 @@
-# SurvivHackusations
+# SurvivHackusation
 - Loot Finder
 - Aim Assistant
 - Transparent Roof
