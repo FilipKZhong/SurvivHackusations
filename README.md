@@ -1,14 +1,25 @@
 # SurvivHackusation
+
+## FEARURES
 - Loot Finder
 - Aim Assistant
 - Transparent Roof
 - HP Counter
+- Better Mini-Map
+- ~~spinbot~~
+- ~~loot bot~~
+- ~~red zone fix~~
+- ~~quickswitch bot~~
+## WORKS:
 
-- 0.8.8.1 patched
+**Current version: 0.8.8.1 |**
 
-## Owner?
-After a while of bugs and glitches on GitHub ownership is finally transfered,
-for some reason all commits I did was made in Filip K Zhong's name,
-very sorry for that :P
-Now when the ownership is 100% transfered I going to start to work on this!
-Enjoy the scripts! //Adam
+Script: *https://rawcdn.githack.com/adams-here-1/SurvivHackusations/60a345a996b237433fc7aea957185a43e0ea33e7/[4]0.8.8.1*
+
+- [X] 0.8.8.1
+- [ ] 0.8.8
+- [X] 0.8.7
+- [X] 0.8.6
+## Owner
+
+Adam's Here: https://www.youtube.com/channel/UCd0t2yx2mAVwoMNkryBDtNA
